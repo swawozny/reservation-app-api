@@ -1,0 +1,14 @@
+{
+  "name": "reservation-app-api",
+  "version": "1.0.0",
+  "description": "reservation app api",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Sebastian Wąwoźny",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
